@@ -1,10 +1,6 @@
 # Treasure-island-
-Make your own "Choose Your Own Adventure" game. Use conditionals such as if, else, and elif statements to lay out the logic and the story's path in your program.
-However, I think the fun part is writing your own story 😊
-
-🧞‍♂️ 🐊 🧙‍♂️ 🧟 🧚‍♂️ 🧝‍♂️ 🥷 🤖 👽 🙀
-
-That said if you'd like to continue with my example, feel free to use the text snippets below...
+Make our own "Choose Your Own Adventure" game. Use conditionals such as if, else, and elif statements to lay out the logic and the story's path in our program.
+However, I think the fun part is writing our own story 😊
 
 Text Snippets from my example
 1)'You're at a crossroad. Where do you want to go? Type "left" or "right"'
